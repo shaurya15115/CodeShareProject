@@ -1,4 +1,3 @@
-// https://claude.ai/share/f6d9c12e-4f2e-4370-a807-3a145a9fea94  Go to this url, in order to understand the overall flow of the project 
 import React, { useState, useEffect } from 'react';
 import { Editor } from '@monaco-editor/react'; // The editor that we are using 
 import { io } from 'socket.io-client';
